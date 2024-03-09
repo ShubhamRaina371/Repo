@@ -1,0 +1,21 @@
+{
+  "entry": "server.js",
+  "files": {
+    "components/nuxt-logo.js": "components/nuxt-logo.js",
+    "components/task-card.js": "components/task-card.js",
+    "components/task-details.js": "components/task-details.js",
+    "components/task-status.js": "components/task-status.js",
+    "components/tutorial.js": "components/tutorial.js",
+    "pages/index.js": "pages/index.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "components/nuxt-logo.js": "components/nuxt-logo.js.map",
+    "components/task-card.js": "components/task-card.js.map",
+    "components/task-details.js": "components/task-details.js.map",
+    "components/task-status.js": "components/task-status.js.map",
+    "components/tutorial.js": "components/tutorial.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "server.js": "server.js.map"
+  }
+}
